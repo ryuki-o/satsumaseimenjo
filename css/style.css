@@ -337,6 +337,10 @@ article img {
     margin-bottom: 20px;
 }
 
+article h2 {
+    margin-top: 40px;
+}
+
 article p {
     margin-bottom:  1rem;
 }
